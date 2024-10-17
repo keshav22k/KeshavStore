@@ -17,24 +17,6 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
 
-## Demo
-
-This application is deployed on Vercel Please check it out :smile: [here](https://mern-store-gold.vercel.app).
-
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
-
-
-
-
-## Vercel Deployment
-
-Both frontend and backend are deployed on Vercel from the same repository. When deploying on Vercel, make sure to specifiy the root directory as `client` and `server` when importing the repository. See [client vercel.json](client/vercel.json) and [server vercel.json](server/vercel.json).
-
-## Start development
-
-```
-npm run dev
-```
 
 ## Languages & tools
 
